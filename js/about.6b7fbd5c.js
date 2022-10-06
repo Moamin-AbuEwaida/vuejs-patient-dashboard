@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvuejs_patient_dashboard"]=self["webpackChunkvuejs_patient_dashboard"]||[]).push([[443],{2031:function(a,n,t){t.r(n),t.d(n,{default:function(){return h}});var e=t(9269);const s={class:"about"},u=(0,e._)("h1",null,"This is an about page",-1),r=[u];function i(a,n){return(0,e.wg)(),(0,e.iD)("div",s,r)}var c=t(7617);const o={},d=(0,c.Z)(o,[["render",i]]);var h=d}}]);
+//# sourceMappingURL=about.6b7fbd5c.js.map
